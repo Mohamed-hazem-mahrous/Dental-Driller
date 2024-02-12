@@ -1,4 +1,4 @@
-# Dental Driller Color Sensor
+# Dental Driller
 This code is a basic product for a dental driller equipment designed as a task for a medical equipment subject. The code utilizes a color sensor to detect different colors, providing a signal to control a component, presumably for safety or operational purposes.
 
 ## Description
